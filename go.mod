@@ -1,4 +1,4 @@
-module github.com/ElementumOrg/cfbypass
+module github.com/projectxorg/cfbypass
 
 go 1.14
 
